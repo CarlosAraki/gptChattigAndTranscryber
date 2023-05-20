@@ -5,7 +5,6 @@ import emoji
 import random
 import os
 from rich import print
-openai.api_key  ="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"
 # Obter todos os emojis conhecidos
 
 historico = []
